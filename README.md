@@ -32,10 +32,22 @@ Currently expanding my expertise in Data Analytics, Business Intelligence, and M
 - BeautifulSoup
 
 ## 📊 Featured Projects
-- Smartwatch Market Analysis
-- Blinkit Business Dashboard
-- Employee Management System
 
+### Smartwatch Market Analysis
+- Performed web scraping, data cleaning, and EDA using Python
+- Analyzed pricing, ratings, and brand trends
+- Created visualizations to identify consumer behavior patterns
+
+### Blinkit Business Dashboard
+- Developed an interactive Power BI dashboard
+- Analyzed sales, customer trends, and revenue insights
+- Improved business reporting and decision-making
+
+### Employee Management System
+- Built a Python-based employee record management system
+- Implemented CRUD operations and structured data handling
+
+  
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/kancherla-sravani-01a84a32b
 - Medium: https://medium.com/@kancherlasravani56
