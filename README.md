@@ -1,48 +1,32 @@
-# Hi, I'm Sravani 
+## 👋 About Me
 
-Aspiring Data Analyst skilled in Python, SQL, Power BI, Pandas, and Data Visualization.
+Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, Excel, and Data Visualization. Passionate about transforming raw data into meaningful insights through data cleaning, exploratory data analysis (EDA), web scraping, and dashboard development.
 
-I enjoy solving business problems using data, building dashboards, and extracting insights from real-world datasets.
+I have built data-driven projects such as Smartwatch Market Analysis, Blinkit Business Dashboard, and Employee Management System, applying analytical and problem-solving skills to uncover trends, optimize reporting, and support decision-making.
 
----
+I am continuously enhancing my expertise in Data Analytics, Business Intelligence, and Machine Learning while working on real-world projects that strengthen my technical and business understanding.
 
-##  Skills
+### 🚀 Technical Skills
 - Python
 - SQL
 - Power BI
+- Excel
 - Pandas
 - NumPy
 - Matplotlib
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
+- Seaborn
+- BeautifulSoup
+- Git & GitHub
 
----
+### 📊 Areas of Interest
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Machine Learning
 
-##  Featured Projects
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/kancherla-sravani-01a84a32b
+- Medium: medium.com/@kancherlasravani56
+- GitHub: github.com/kancherlasrava
 
-### Smartwatch Market Analysis
-- Performed web scraping and data cleaning using Python
-- Conducted EDA on pricing, ratings, and brand trends
-- Built visualizations to identify consumer behavior patterns
-
-### Blinkit Business Dashboard
-- Created interactive Power BI dashboard
-- Analyzed sales, customer trends, and revenue insights
-- Improved business reporting visualization
-
-### Employee Management System
-- Developed employee record management project using Python
-- Implemented CRUD operations and structured data handling
-
----
-
-##  Currently Learning
-- Advanced SQL
-- DAX Functions
-- Machine Learning Fundamentals
-
----
-
-##  Connect With Me
-- LinkedIn: https://www.linkedin.com/in/kancherla-sravani-01a84a32b/
-- Email: kancherlasravani56@gmail.com
+💡 Open to opportunities in Data Analytics, Business Intelligence, and Data-Driven Decision Making.
